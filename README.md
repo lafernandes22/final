@@ -111,5 +111,10 @@ Your individual project score will also be influenced by your peer evaluations.
 
 References
 ---
+- [Gradient legend](https://bl.ocks.org/HarryStevens/6eb89487fc99ad016723b901cbd57fde)
+- [Professor Harrison's code for making maps in d3](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ESyRc5olk4FDsk9bdV7VDVsBCUCRoTbzyPnZ7zipJC2t0w?e=rkzWgs)
+- [Creating color palettes](https://coolors.co/gradient-palette/d5ded9-11c411?number=5)
+- [source reference for labor chart](https://www.d3-graph-gallery.com/graph/line_basic.html)
+
 
 - This final project is adapted from https://www.dataviscourse.net/2020/project/
